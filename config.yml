@@ -1,0 +1,45 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: jakesmith.info
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 15
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: Projects
+      url: /projects
+      weight: 5
+
+params:
+
+     homeInfoParams:
+      Title: "Jake Smith"
+      Content: >
+            Software Developer currently based in Wilmington, DE
+            
+            - Currently focusing on iOS development
+     
+     socialIcons:
+      - name: "github"
+        url: "https://github.com/jakesmithdeveloper"
+      - name: "twitter"
+        url: "https://twitter.com/JakeSmith_c"
+      - name: "linkedin"
+        url: "https://www.linkedin.com/in/jacob-smith-b55977149/"
+      - name: "email"
+        url: mailto:jakesmithdeveloper@gmail.com
+      
+      
