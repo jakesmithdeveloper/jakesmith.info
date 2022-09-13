@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://github.com/jakesmithdeveloper/jakesmith.info/
 languageCode: en-us
 title: jakesmith.info
 theme: "PaperMod"
@@ -30,7 +30,9 @@ params:
       Content: >
             Software Developer currently based in Wilmington, DE
             
-            - Currently focusing on iOS development
+            - Current focus: iOS development
+
+            - Prior Experience in: Smalltalk, ReactJS
      
      socialIcons:
       - name: "github"
