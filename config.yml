@@ -24,17 +24,12 @@ menu:
       weight: 5
 
 params:
-
-     homeInfoParams:
+    showReadingTime: true
+    homeInfoParams:
       Title: "Jake Smith"
-      Content: >
-            Software Developer currently based in Wilmington, DE
-            
-            - Current focus: iOS development
-
-            - Prior Experience in: Smalltalk, ReactJS
-     
-     socialIcons:
+      Content: "Software Developer currently based in Wilmington, DE"
+    
+    socialIcons:
       - name: "github"
         url: "https://github.com/jakesmithdeveloper"
       - name: "twitter"
@@ -43,5 +38,4 @@ params:
         url: "https://www.linkedin.com/in/jacob-smith-b55977149/"
       - name: "email"
         url: mailto:jakesmithdeveloper@gmail.com
-      
       
