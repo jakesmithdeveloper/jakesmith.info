@@ -26,6 +26,15 @@ struct ExampleSite: Site {
     var theme = MyTheme()
     var pageWidth = 12
     
+    var pages: [any StaticPage] {
+        Posts()
+        Dailys()
+    }
+    
+    var layouts: [any ContentPage] {
+        BlogPost()
+    }
+    
 }
 
 

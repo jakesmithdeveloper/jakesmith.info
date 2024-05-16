@@ -7,11 +7,15 @@ struct MyTheme: Theme {
             Head(for: page, in: context)
 
             Body {
-                NavigationBar(logo: "jakesmith.info") {
+                let brandImage = Image("/images/logo.svg", description: "jakesmith.info")
+                    .frame(width: 200)
+                
+                NavigationBar(logo: brandImage) {
                     Link("Projects", target: Home())
-                    Link("Posts", target: Home())
+                    Link("Posts", target: Posts())
+                    Link("Dailys", target: Dailys())
                 }
-                .backgroundColor("#3f5a36")
+                .backgroundColor("#282828")
                 .navigationBarStyle(.dark)
                 .navigationItemAlignment(.trailing)
                 
