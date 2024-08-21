@@ -1,0 +1,68 @@
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/ChildIndexPath.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/DirectiveArgument.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/Document.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/LiteralMarkup.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/Markup.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/MarkupChildren.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/MarkupData.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/PlainTextConvertibleMarkup.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Base/RawMarkup.swift
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockDirective.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/BlockQuote.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/CustomBlock.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenDiscussion.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenNote.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenParameter.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/Doxygen Commands/DoxygenReturns.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/ListItem.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/OrderedList.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Block Container Blocks/UnorderedList.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Inline Container Blocks/Paragraph.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/CodeBlock.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/HTMLBlock.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/Heading.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Leaf Blocks/ThematicBreak.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/Table.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableBody.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCell.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableCellContainer.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableHead.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Block Nodes/Tables/TableRow.swift'
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/Replacement.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Infrastructure/SourceLocation.swift
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Emphasis.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Image.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/InlineAttributes.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Link.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Strikethrough.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Containers/Strong.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/CustomInline.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/InlineCode.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/InlineHTML.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/LineBreak.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/SoftBreak.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/SymbolLink.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Inline Nodes/Inline Leaves/Text.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Interpretive Nodes/Aside.swift'
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Parser/BlockDirectiveParser.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Parser/CommonMarkConverter.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Parser/LazySplitLines.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Parser/ParseOptions.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Parser/RangeAdjuster.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Parser/RangerTracker.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Rewriter/MarkupRewriter.swift
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BasicBlockContainer.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BasicInlineContainer.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BlockContainer.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/BlockMarkup.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/InlineContainer.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/InlineMarkup.swift'
+'/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Structural Restrictions/ListItemContainer.swift'
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Utility/AtomicCounter.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Utility/CharacterExtensions.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Utility/CollectionExtensions.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Utility/StringExtensions.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Visitor/MarkupVisitor.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Walker/MarkupWalker.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupFormatter.swift
+/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-markdown/Sources/Markdown/Walker/Walkers/MarkupTreeDumper.swift

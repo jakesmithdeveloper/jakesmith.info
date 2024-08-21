@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/master.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/Sources/Pages/BlogPost.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/BlogPost.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/BlogPost.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/BlogPost~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/BlogPost.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/Sources/Pages/Dailys.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Dailys.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Dailys.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Dailys~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Dailys.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/Sources/Pages/Home.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Home.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/Sources/Pages/Posts.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Posts.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Posts.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Posts~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Posts.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/Sources/Site.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/Site.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/Sources/Themes/MainTheme.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/IgniteStarter.build/MainTheme.swiftdeps"
+  }
+}
