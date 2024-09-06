@@ -20,7 +20,7 @@ struct ExampleSite: Site {
     var url = URL("https://www.jakesmith.info")
     var builtInIconsEnabled = true
 
-    var author = "John Appleseed"
+    var author = "Jake Smith"
 
     var homePage = Home()
     var theme = MyTheme()
