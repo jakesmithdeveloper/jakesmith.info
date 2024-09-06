@@ -1,0 +1,4 @@
+module ArgumentParser {
+    header "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/ArgumentParser.build/ArgumentParser-Swift.h"
+    requires objc
+}

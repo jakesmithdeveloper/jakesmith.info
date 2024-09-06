@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/master.swiftdeps"
+  },
+  "/Users/jakesmith/Development/Web/jakesmithinfo/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift": {
+    "dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.d",
+    "object": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swift.o",
+    "swiftmodule": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/jakesmith/Development/Web/jakesmithinfo/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swiftdeps"
+  }
+}
