@@ -20,8 +20,8 @@ struct MyTheme: Theme {
                 .navigationItemAlignment(.trailing)
                 
                 page.body
-
-                IgniteFooter()
+                
+               // IgniteFooter()
             }
         }
     }
